@@ -1,1 +1,1 @@
-"# parallel_idz" 
+"# parallel_idz Artem Kovtun" 
